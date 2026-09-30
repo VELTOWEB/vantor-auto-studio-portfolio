@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#111419"/><stop offset="1" stop-color="#1e232b"/></linearGradient><radialGradient id="r"><stop stop-color="#5f6f9f" stop-opacity=".24"/><stop offset="1" stop-color="#111419" stop-opacity="0"/></radialGradient></defs>
+<rect width="1600" height="1000" fill="url(#g)"/><circle cx="1180" cy="230" r="520" fill="url(#r)"/>
+<g stroke="#fff" stroke-opacity=".66" fill="none"><path d="M210 635 C330 500 470 455 690 432 C905 410 1090 446 1290 575 L1390 686 L1270 708 C1228 780 1114 796 1045 714 L556 714 C490 796 367 788 324 711 L196 692 Z" stroke-width="6"/><circle cx="430" cy="704" r="94" stroke-width="8"/><circle cx="1140" cy="704" r="94" stroke-width="8"/><path d="M520 470 L620 322 L1014 322 L1166 506" stroke-width="4"/><path d="M641 332 L669 493 M1002 331 L1010 491" stroke-width="3"/></g>
+<g stroke="#5f6f9f" stroke-width="7" stroke-linecap="round" opacity=".95"><path d="M240 198H728"/><path d="M845 198H1360"/></g>
+<text x="120" y="860" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="4">TINT / FILM</text>
+<text x="124" y="920" fill="#9198A1" font-family="Arial,Helvetica,sans-serif" font-size="24" letter-spacing="6">CONTROLLED SHADE</text>
+</svg>

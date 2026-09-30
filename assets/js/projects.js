@@ -1,0 +1,2 @@
+
+$$('.filter-btn').forEach(btn=>btn.addEventListener('click',()=>{$$('.filter-btn').forEach(b=>b.classList.remove('active'));btn.classList.add('active');const f=btn.dataset.filter;$$('.projects-list .project-card').forEach(c=>{const show=f==='all'||(c.dataset.cat||'').split(' ').includes(f);c.classList.toggle('hide',!show);if(show){c.animate([{opacity:0,transform:'scale(.985)'},{opacity:1,transform:'none'}],{duration:220,easing:'ease-out'})}})}));
